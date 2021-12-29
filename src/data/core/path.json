@@ -1,0 +1,4 @@
+{
+	"css": ["style/main.css", "style/vendor.css"],
+	"js": ["js/app.min.js"]
+}
